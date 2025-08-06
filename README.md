@@ -16,8 +16,8 @@ You bring the questions, I’ll bring the queries 🍪💻
 ---
 
 ### 🔗 Socials:
-[![LinkedIn](https://www.linkedin.com/in/abhishekkaushik2024/)  
-[![Instagram](https://www.instagram.com/abhishek.kaushik.0/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abhishekkaushik2024/)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/abhishek.kaushik.0/)  
 
 ---
 
