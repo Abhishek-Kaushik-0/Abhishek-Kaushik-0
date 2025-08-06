@@ -6,7 +6,6 @@ Here, you'll find:
 
 🔍 Projects I’m working on to sharpen my analytics game  
 📒 Learnings from my journey with Excel, SQL, Power BI, and N8N   
-🌱 Real-life progress of someone growing into the data world  
 
 Whether you’re here to find code, get inspired, or just see how someone’s figuring it all out—you’re in the right place!
 
