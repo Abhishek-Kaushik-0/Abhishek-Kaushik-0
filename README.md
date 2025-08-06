@@ -1,11 +1,11 @@
-🌟 Hey there, I’m so glad you’re here!
-
+**🌟 Hey there, I’m so glad you’re here!**
+--
 Welcome to my little corner of GitHub!  
 I’m an aspiring **Data Analyst** on a mission to explore data, build skills, and share everything I learn along the way.  
 Here, you'll find:
 
 🔍 Projects I’m working on to sharpen my analytics game  
-📒 Learnings from my journey with Excel, SQL, Power BI, and Python  
+📒 Learnings from my journey with Excel, SQL, Power BI, and N8N
 🌱 Real-life progress of someone growing into the data world  
 
 Whether you’re here to find code, get inspired, or just see how someone’s figuring it all out—you’re in the right place!
