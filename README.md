@@ -7,8 +7,8 @@ Here, you'll find:
 🔍 Projects I’m working on to sharpen my analytics game  
 📒 Learnings from my journey with Excel, SQL, Power BI, and N8N   
 
-**Let’s connect, learn, and grow together—one repo at a time.
-**
+*Let’s connect, learn, and grow together—one repo at a time.
+*
 ---
 
 ### 🔗 Socials:
