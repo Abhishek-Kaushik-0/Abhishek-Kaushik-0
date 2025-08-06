@@ -23,6 +23,8 @@ Let’s connect, learn, and grow together—one repo at a time.🌱
 ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-A4DD00?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
